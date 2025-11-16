@@ -1,0 +1,326 @@
+version=4
+
+binding={
+	input_action="pause"
+	scancode=0
+}
+binding={
+	input_action="unpause"
+	scancode=0
+}
+binding={
+	input_action="camera_up"
+	scancode=0
+}
+binding={
+	input_action="camera_down"
+	scancode=0
+}
+binding={
+	input_action="camera_left"
+	scancode=0
+}
+binding={
+	input_action="camera_right"
+	scancode=0
+}
+binding={
+	input_action="find_province"
+	scancode=55
+	modifier=ctrl
+}
+binding={
+	input_action="consolidate"
+	scancode=6
+	modifier=shift
+}
+binding={
+	input_action="detach_siege"
+	scancode=7
+	modifier=shift
+}
+binding={
+	input_action="detach_damaged_ship"
+	scancode=0
+}
+binding={
+	input_action="split_half"
+	scancode=22
+	modifier=shift
+}
+binding={
+	input_action="reorg_units"
+	scancode=0
+}
+binding={
+	input_action="merge_units"
+	scancode=4
+	modifier=shift
+}
+binding={
+	input_action="macro_builder"
+	scancode=0
+}
+binding={
+	input_action="max_zoom_out"
+	scancode=43
+}
+binding={
+	input_action="do_shattered_retreat"
+	scancode=10
+	modifier=shift
+}
+binding={
+	input_action="recruit_to"
+	scancode=21
+	modifier=shift
+}
+binding={
+	input_action="select_objective"
+	scancode=26
+	modifier=shift
+}
+binding={
+	input_action="mapmode_terrain"
+	scancode=29
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_political"
+	scancode=26
+}
+binding={
+	input_action="mapmode_culture"
+	scancode=8
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_location_religion"
+	scancode=21
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_raw_material"
+	scancode=21
+}
+binding={
+	input_action="mapmode_control"
+	scancode=20
+}
+binding={
+	input_action="mapmode_proximity"
+	scancode=27
+}
+binding={
+	input_action="mapmode_population"
+	scancode=20
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_market"
+	scancode=29
+}
+binding={
+	input_action="mapmode_diplomacy"
+	scancode=7
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_tactical"
+	scancode=4
+}
+binding={
+	input_action="mapmode_tax_base"
+	scancode=17
+}
+binding={
+	input_action="mapmode_diplomacy_political"
+	scancode=0
+}
+binding={
+	input_action="mapmode_integration"
+	scancode=9
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_development"
+	scancode=25
+}
+binding={
+	input_action="mapmode_satisfaction"
+	scancode=18
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_prosperity"
+	scancode=25
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_cities"
+	scancode=8
+}
+binding={
+	input_action="mapmode_food"
+	scancode=27
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_food_productivity"
+	scancode=6
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_roads"
+	scancode=5
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_migration"
+	scancode=16
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_language"
+	scancode=0
+}
+binding={
+	input_action="mapmode_language_power"
+	scancode=19
+}
+binding={
+	input_action="mapmode_dialect"
+	scancode=48
+}
+binding={
+	input_action="mapmode_liturgical_language"
+	scancode=47
+}
+binding={
+	input_action="mapmode_literacy"
+	scancode=15
+}
+binding={
+	input_action="mapmode_institution"
+	scancode=12
+}
+binding={
+	input_action="mapmode_opinion"
+	scancode=13
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_antagonism"
+	scancode=4
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_war"
+	scancode=7
+}
+binding={
+	input_action="mapmode_players"
+	scancode=55
+}
+binding={
+	input_action="mapmode_country_truce"
+	scancode=13
+}
+binding={
+	input_action="mapmode_power_projection"
+	scancode=19
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_fort"
+	scancode=9
+}
+binding={
+	input_action="mapmode_supply"
+	scancode=22
+}
+binding={
+	input_action="mapmode_country_military_access"
+	scancode=14
+}
+binding={
+	input_action="mapmode_provinces"
+	scancode=26
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_area"
+	scancode=23
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_region"
+	scancode=28
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_sub_continent"
+	scancode=24
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_continent"
+	scancode=12
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_topography"
+	scancode=23
+}
+binding={
+	input_action="mapmode_vegetation"
+	scancode=28
+}
+binding={
+	input_action="mapmode_climate"
+	scancode=24
+}
+binding={
+	input_action="mapmode_winter"
+	scancode=51
+}
+binding={
+	input_action="mapmode_winter_power"
+	scancode=52
+}
+binding={
+	input_action="mapmode_rivers"
+	scancode=10
+}
+binding={
+	input_action="mapmode_weather"
+	scancode=10
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_maritime"
+	scancode=5
+}
+binding={
+	input_action="mapmode_natural_harbor_suitability"
+	scancode=11
+}
+binding={
+	input_action="mapmode_harbor_capacity"
+	scancode=11
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_naval_range"
+	scancode=22
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_colonial"
+	scancode=17
+	modifier=ctrl
+}
+binding={
+	input_action="mapmode_rebels"
+	scancode=18
+}
